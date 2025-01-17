@@ -8,7 +8,7 @@ You can play directly through the link available on my [itch.io](https://limaade
 
 ## About the Project  
 - **Genre:** [Flappy]  
-- **Developed with:** [GmaeMaker]  
+- **Developed with:** [GameMaker]  
 - **Supported Platforms:** [Windows, Browser and Mobile]  
 
 ## Feedback  
